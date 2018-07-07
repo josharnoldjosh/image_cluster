@@ -9,7 +9,8 @@ Clusters similar images into specified sets.
 
 ## Usage
 1. Make sure the python files are in the same directory as all the images you want to cluster
-2. Run `python3 cluster.py -h` to find out more
+2. Run `python3 cluster.py -h` to find out more (optional)
+3. Run `python3 cluster.py`
 
 ## Example
 `python3 cluster.py -i 20 -g 5000 -s y`
